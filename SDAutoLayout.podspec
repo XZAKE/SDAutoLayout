@@ -69,7 +69,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/gsdios/SDAutoLayout.git", :tag => "1.1"}
+  s.source       = { :git => "https://github.com/gsdios/SDAutoLayout.git", :commit => "522e3e2913d63ffa0b26dac43092cc0d25b2e47f"}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
