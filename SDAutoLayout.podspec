@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "SDAutoLayout"
-  s.version      = "1.1"
+  s.name         = "SDAutoLayout-Dev"
+  s.version      = "develop"
   s.summary      = "一行代码搞定自动布局！致力于做最简单易用的Autolayout库。The most easy way for autolayout."
 
   s.homepage     = "https://github.com/gsdios/SDAutoLayout"
