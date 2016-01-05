@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.version      = "develop"
   s.summary      = "一行代码搞定自动布局！致力于做最简单易用的Autolayout库。The most easy way for autolayout."
 
-  s.homepage     = "https://github.com/gsdios/SDAutoLayout"
+  s.homepage     = "https://github.com/XZAKE/SDAutoLayout.git"
   # s.screenshots  = "https://camo.githubusercontent.com/5d9e879c7006297b3d6e12c20c6cd1e15bf83016/687474703a2f2f7777332e73696e61696d672e636e2f626d6964646c652f39623831343665646777316578346d756b69787236673230396730376c6864742e676966"
 
 
@@ -69,7 +69,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/gsdios/SDAutoLayout.git", :commit => "522e3e2913d63ffa0b26dac43092cc0d25b2e47f"}
+  s.source       = { :git => "https://github.com/XZAKE/SDAutoLayout.git", :commit => "a43c9fc8c34799b17716c78b49a7c77f7b56884a"}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
